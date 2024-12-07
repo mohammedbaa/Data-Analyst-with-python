@@ -1,0 +1,39 @@
+{
+    "employees": [
+        {
+            "id": 1,
+            "name": "John Doe",
+            "position": "Software Engineer",
+            "salary": 70000
+        },
+        {
+            "id": 2,
+            "name": "Jane Smith",
+            "position": "Data Scientist",
+            "salary": 85000
+        },
+        {
+            "id": 3,
+            "name": "Emily Davis",
+            "position": "Product Manager",
+            "salary": 95000
+        }
+    ],
+    "company": {
+        "name": "Tech Solutions Inc.",
+        "address": "123 Innovation Drive, Tech City",
+        "industry": "Technology"
+    },
+    "projects": [
+        {
+            "project_id": "P001",
+            "title": "AI Research",
+            "budget": 500000
+        },
+        {
+            "project_id": "P002",
+            "title": "Web Development",
+            "budget": 150000
+        }
+    ]
+}
